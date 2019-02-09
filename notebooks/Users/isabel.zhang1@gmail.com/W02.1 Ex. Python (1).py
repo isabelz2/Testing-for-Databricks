@@ -49,6 +49,10 @@
 
 -- COMMAND ----------
 
+Hello_test
+
+-- COMMAND ----------
+
 -- MAGIC %md __Exercise:__ Store a list in variable `c` below so that the cell returns `True`.
 
 -- COMMAND ----------
